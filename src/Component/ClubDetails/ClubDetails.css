@@ -1,0 +1,63 @@
+.club-details{
+    width: 100%;
+    /* height: 300px; */
+    background-color: #492c54;
+}
+
+.banner{
+    width: 100%;
+    height: 300px;
+    padding: 30px 0px;
+}
+
+.img-div{
+    width: 200px;
+    height: 200px;
+}
+
+.img-div img{
+    width: 100%;
+}
+
+
+.top-info-div{
+    
+    padding: 1rem;
+    background-color: #bb57cf;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.top-info-div img{
+    width: 100%;
+}
+
+.bottom-info-div{
+    width: 1000px;
+    margin: auto;
+    padding: 20px;
+    color: whitesmoke;
+    text-align: justify;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    width: 250px;
+    padding: 20px;
+}
+
+.footer img{
+    width: 50px;
+    height: 50px;
+}
+
+.card-style{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
